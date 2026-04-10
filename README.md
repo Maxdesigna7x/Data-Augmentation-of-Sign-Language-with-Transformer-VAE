@@ -4,6 +4,7 @@ This repository contains a complete Jupyter Notebook pipeline for training a **T
 
 The primary goals of this project are to reconstruct sign language sequences, learn a distinct latent space for different sign classes, generate controlled synthetic data for dataset augmentation, and perform class-specific fine-tuning.
 
+![Descripción](video.gif)
 ---
 
 ## 🧠 Architecture & Technical Specs
